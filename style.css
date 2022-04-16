@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+html {
+	text-align: center;
+	font-family: Rubik;
+	user-select: none;
+	background-color: #333333;
+}
+.margin{
+		margin-top:50px;
+}
+h1 {
+	color: #ffffff;
+}
+.photo {
+		border-radius: 10px;
+		width: auto;
+		max-width: 15em;
+		align: center;
+}
+img {
+	align: center;
+	width: auto;
+	max-width: 5em;
+}
